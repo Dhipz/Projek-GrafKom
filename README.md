@@ -2,7 +2,7 @@
 Nama Kelompok :
 1. Arya Aminata                 (G64180007) 	: Designer 
 2. Fitra Andika                 (G64180035) 	: Artist
-3. Pradhipta Trimanggala Satya  (G64180075)	: Programmer
+3. Pradhipta Trimanggala Satya  (G64180075)	  : Programmer
 
 
 ## Story
@@ -13,6 +13,7 @@ Nama Kelompok :
 - Pencuri bisa ambil coin
 - Pencuri mati jika nabrak batu
 - Pencuri mati masuk sungai
+- Coin buat upgrade
 
 ## Goals
   Petani mencapai jarak sejauh - jauhnya
