@@ -1,3 +1,5 @@
+**KOM300 - Grafika Komputer : Kelompok 12 P1**
+
 # <div align="center">NINJARI</div>
 <p align="center">
   <img src="https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/Icon.png">
@@ -10,7 +12,6 @@
 [Video Presentasi](https://github.com/Dhipz/Ninjari)
 
 ## Development Team 
-**KOM300 - Grafika Komputer : Kelompok 12 P1**
 |NIM|Nama|Role|
 |---|---|---|
 |G64180007|Arya Aminata|Game Programmer & Designer|
