@@ -14,15 +14,19 @@
 NINJARI (Ninja Berlari) merupakan game 2D yang berbasis Endless Runner dengan karakter utamanya adalah seorang Ninja. Game ini dibuat untuk platform PC dengan bahasa Inggris. Dalam game ini, pemain harus menjalankan Ninja tersebut sejauh mungkin dan mendapatkan Coin sebanyak - banyaknya serta menghindari Obstacle dan Enemy yang ada dengan melompat.
 
 ## Story
-Pada suatu hari, ada seorang Ninja yang sedang berpetualang di sebuah hutan yang misterius. Ternyata di dalam hutan tersebut terdapat koin emas yang dapat diambil oleh Ninja tersebut, tetapi hutan tersebut juga dipenuhi jebakan, rintangan dan juga ada musuh yang harus dihindari. Ninja tersebut terus menjelajahi hutan untuk mengumpulkan koin emas dengan berlari karena dia yakin bahwa "Berlari adalah Jalan Ninjaku".
+Suatu hari, ada seorang Ninja yang sedang berpetualang di sebuah hutan yang misterius. Ternyata di dalam hutan tersebut terdapat koin emas yang dapat diambil oleh Ninja tersebut, tetapi hutan tersebut juga dipenuhi jebakan, rintangan dan juga ada musuh yang harus dihindari. Ninja tersebut terus menjelajahi hutan untuk mengumpulkan koin emas dengan berlari karena dia yakin bahwa "Berlari adalah Jalan Ninjaku".
 
 ## Goals
 Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin dan mendapatkan Coin sebanyak - banyaknya serta menghindari Obstacle dan Enemy yang ada dengan melompat.
 
 ## Rules
- 1. Player movement & control : Lari otomatis, Jump dan Double Jump (Space/Left Mouse-Click)
+ 1. Player movement & control : Lari otomatis, Jump dan Double Jump
  2. Player mendapatkan tambahan score jika mengambil Coin (1 Coin = +100 Score)
  3. Player mati jika : jatuh, menabrak Obstacle, menabrak Enemy
+
+##  Control
+ 1. Jump & Double Jump :  Space atau Left-Mouse Click
+ 2. Pause Game : P atau Esc
 
 ## Teknologi yang Digunakan
  1. `Unity Hub 2.4.2` : Platform kolaborasi projek
@@ -39,4 +43,15 @@ Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin 
  5. Sound : [Blackmoor Ninjas (Battle Theme) | OpenGameArt.org](https://opengameart.org/content/blackmoor-ninjas-battle-theme) & ["Ninja Theme" | OpenGameArt.org](https://opengameart.org/content/ninja-theme)
  
 ## Screenshoot Gameplay
- - List item
+ - Main Menu
+ ![mainmenu](https://github.com/Dhipz/Projek-GrafKom/blob/main/gmainmenu.png)
+ - Rules Page
+ ![rules](https://github.com/Dhipz/Projek-GrafKom/blob/main/grules.png)
+ - Gameplay
+ ![gameplay](https://github.com/Dhipz/Projek-GrafKom/blob/main/gplay.png)
+ - Pause Menu
+ ![pause](https://github.com/Dhipz/Projek-GrafKom/blob/main/gpause.png)
+ - Death Menu
+![death](https://github.com/Dhipz/Projek-GrafKom/blob/main/gdeath.png)
+
+## Link Video
