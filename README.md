@@ -2,10 +2,13 @@
 <p align="center">
   <img src="https://github.com/Dhipz/Projek-GrafKom/blob/main/Icon.png">
 </p>
+
 ## Link Source Code
 ![Source Code](https://github.com/Dhipz/Ninjari)
+
 ## Link Video Presentasi
-![Video Presentasi]()
+![Video Presentasi](https://github.com/Dhipz/Ninjari)
+
 ## Development Team 
 **KOM300 - Grafika Komputer : Kelompok 12 P1**
 |NIM|Nama|Role|
