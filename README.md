@@ -51,12 +51,12 @@ Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin 
  
 ## Screenshoot Gameplay
  - Main Menu
- ![mainmenu](https://github.com/Dhipz/Projek-GrafKom/blob/main/gmainmenu.png)
+ ![mainmenu](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gmainmenu.png)
  - Rules Page
- ![rules](https://github.com/Dhipz/Projek-GrafKom/blob/main/grules.png)
+ ![rules](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/grules.png)
  - Gameplay
- ![gameplay](https://github.com/Dhipz/Projek-GrafKom/blob/main/gplay.png)
+ ![gameplay](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gplay.png)
  - Pause Menu
- ![pause](https://github.com/Dhipz/Projek-GrafKom/blob/main/gpause.png)
+ ![pause](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gpause.png)
  - Death Menu
-![death](https://github.com/Dhipz/Projek-GrafKom/blob/main/gdeath.png)
+![death](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gdeath.png)
