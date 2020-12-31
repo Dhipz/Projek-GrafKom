@@ -1,6 +1,6 @@
 # <div align="center">NINJARI</div>
 <p align="center">
-  <img src="https://github.com/Dhipz/Projek-GrafKom/blob/main/Icon.png">
+  <img src="https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/Icon.png">
 </p>
 
 ## Link Source Code
