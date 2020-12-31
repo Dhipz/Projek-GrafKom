@@ -30,7 +30,7 @@ Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin 
 
 ## Teknologi yang Digunakan
  1. `Unity Hub 2.4.2` : Platform kolaborasi projek
- 2. `Unity 2019 4.13f1` : Game engine (C#)
+ 2. `Unity 2019.4.13f1` : Game engine (C#)
  3. `Visual Studio Code 1.52.1` : Code editor
  4. `Adobe Illustrator & Figma` : Asset editor
  5. `Github` : Dokumentasi projek
