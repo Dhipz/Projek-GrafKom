@@ -50,7 +50,7 @@ Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin 
  4. Background : [Free Cartoon Forest 2D Backgrounds | Free Game Assets](https://free-game-assets.itch.io/free-cartoon-forest-2d-backgrounds)
  5. Sound : [Blackmoor Ninjas (Battle Theme) | OpenGameArt.org](https://opengameart.org/content/blackmoor-ninjas-battle-theme) & ["Ninja Theme" | OpenGameArt.org](https://opengameart.org/content/ninja-theme)
  
-## Screenshoot Gameplay
+## Screenshoot Game
  - Main Menu
  ![mainmenu](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gmainmenu.png)
  - Rules Page
