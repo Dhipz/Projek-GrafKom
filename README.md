@@ -1,9 +1,13 @@
-# <div align="center">**NINJARI**</div>
+# <div align="center">NINJARI</div>
 <p align="center">
   <img src="https://github.com/Dhipz/Projek-GrafKom/blob/main/Icon.png">
 </p>
-
+## Link Source Code
+![Source Code](https://github.com/Dhipz/Ninjari)
+## Link Video Presentasi
+![Video Presentasi]()
 ## Development Team 
+**KOM300 - Grafika Komputer : Kelompok 12 P1**
 |NIM|Nama|Role|
 |---|---|---|
 |G64180007|Arya Aminata|Game Programmer & Designer|
@@ -53,5 +57,3 @@ Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin 
  ![pause](https://github.com/Dhipz/Projek-GrafKom/blob/main/gpause.png)
  - Death Menu
 ![death](https://github.com/Dhipz/Projek-GrafKom/blob/main/gdeath.png)
-
-## Link Video
