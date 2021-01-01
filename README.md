@@ -11,6 +11,9 @@
 ## Link File Build & Installer
 [Build + Installer](https://github.com/Dhipz/Projek-GrafKom/tree/main/Game)
 
+## Link Video Gameplay
+[Ninjari Gameplay | Youtube](https://youtu.be/LT818LJPIq4)
+
 ## Link Video Presentasi
 [Google Drive](https://drive.google.com/file/d/1CP32tbwxzvtalH9GW3hOGVH9O45zroJx/view?usp=sharing)
 [Youtube](https://youtu.be/3wXwP9-coM0) 
@@ -65,6 +68,3 @@ Goals (tujuan) dari game ini adalah player (Ninja) harus berlari sejauh mungkin 
  ![pause](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gpause.png)
  - Death Menu
 ![death](https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/gdeath.png)
-
-## Video Gameplay
-[Ninjari Gameplay | Youtube](https://youtu.be/LT818LJPIq4)
