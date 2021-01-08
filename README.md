@@ -5,7 +5,7 @@
   <img src="https://github.com/Dhipz/Projek-GrafKom/blob/main/Image/Icon.png">
 </p>
 
-## Link Source Code
+## Link Source Code Unity
 [Source Code](https://github.com/Dhipz/Ninjari)
 
 ## Link File Build & Installer
